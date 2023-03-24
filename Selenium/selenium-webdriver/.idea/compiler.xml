@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="selenium-webdriver-bt" />
+        <module name="selenium_webdriver_java" />
+        <module name="selenium-webdriver" />
+        <module name="selenium-java-demo" />
+        <module name="selenium-webdriver-java-main" />
+        <module name="selenium-webdriver-TranTuanKiet -java2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
